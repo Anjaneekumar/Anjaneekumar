@@ -5,6 +5,9 @@
 - 📫 How to reach me ... Email:- anjaneekumarsingh01@gmail.com
 - LinkedIn Profile ... www.linkedin.com/in/anjaneekumar-singh
 
+![Anjaneekumar Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjaneekumar
+&show_icons=true&theme=radical)
+
 <!---
 Anjaneekumar/Anjaneekumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
