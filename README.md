@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... AI / ML projects
 - 📫 How to reach me ... Email:- anjaneekumarsingh01@gmail.com
 - LinkedIn Profile ... www.linkedin.com/in/anjaneekumar-singh
-- [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Anjaneekumar&theme=default&show_icons=true&count_private=true&bg_color=HEX,#d48b59,#653357)  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaneekumar&layout=compact&langs_count=8)
 
